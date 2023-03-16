@@ -14,3 +14,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "RMC Sample"
 include ':app'
+include ':rmc-core'
+include ':rmc-ui'
+include ':rmc-pitari'
+include ':rmc-iam'
